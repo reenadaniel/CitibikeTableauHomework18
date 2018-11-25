@@ -6,7 +6,7 @@ Click the link below to view completed dashboard
 
 Citi Bike Analysis Link to Tableau Server: https://us-east-1.online.tableau.com/#/site/reenadaniel/workbooks/328211/views
 
-For the conclusions, please download the <a href="https://github.com/reenadaniel/CitibikeTableauHomework18/blob/master/Citibike-hw18.pdf">New York Citi Bike project pdf</a>
+For the conclusions, please download the <a href="https://github.com/reenadaniel/CitibikeTableauHomework18/blob/master/citibike-hw18.pdf">New York Citi Bike project pdf</a>
 
 **The application aggregates the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report and attemts to provide answers to the following questions:**
 
